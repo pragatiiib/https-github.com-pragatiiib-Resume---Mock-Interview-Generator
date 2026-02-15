@@ -1,0 +1,5 @@
+{
+  "name": "AceMock - AI Resume Interviewer",
+  "description": "A smart mock interview platform that analyzes your resume, identifies red flags, and conducts high-fidelity interviews with specific personas (Strict, Friendly, Startup, MNC). It generates technical and HR questions with intelligent follow-up logic and scoring.",
+  "requestFramePermissions": []
+}
